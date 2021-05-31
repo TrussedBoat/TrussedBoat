@@ -1,0 +1,4 @@
+- Hi I am TrussedBoat;
+- I am currently learning Java and C++;
+- I do simple projects as my hobby;
+- I am not Veteran at coding but I have a lot of fun when doing it;
